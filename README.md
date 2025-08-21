@@ -25,8 +25,8 @@ Currently, I'm active as a **Teaching Assistant & Tutor** at Universitas Gunadar
 
 ### 📊 GitHub Statistics
 <p align="left">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suffff21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suffff21&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suffff21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suffff21&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
